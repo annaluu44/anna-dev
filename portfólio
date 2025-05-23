@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfólio | Anna Luiza</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Oi, eu sou a Anna Luiza 👋</h1>
+    <p>Explorando o mundo criativo da programação!</p>
+  </header>
+
+  <section class="projetos">
+    <h2>🌟 Meu Projeto em Destaque</h2>
+    <ul>
+      <li>
+        <a href="http://editor.p5js.org/annaluiza4444/sketches/wLvf5bmvS" target="_blank">
+          Sketch criativo em P5.js
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="contato">
+    <h2>📫 Fale comigo</h2>
+    <p>
+      <a href="mailto:annaluizaaraujosantos8@gmail.com">annaluizaaraujosantos8@gmail.com</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>Feito com 💻 por Anna Luiza</p>
+  </footer>
+</body>
+</html>
